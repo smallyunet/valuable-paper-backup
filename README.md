@@ -17,5 +17,5 @@
  * <a href="./a-m-turling">a-m-turling</a>
    * <a href="./a-m-turling/COMPUTING MACHINERY AND INTELLIGENCE.pdf">COMPUTING MACHINERY AND INTELLIGENCE.pdf</a>
    * <a href="./a-m-turling/ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf">ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf</a>
- * <a href="./README.md">README.md</a>
  * <a href="./gitpush.sh">gitpush.sh</a>
+ * <a href="./README.md">README.md</a>
