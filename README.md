@@ -13,7 +13,7 @@
    * <a href="./a-m-turling/COMPUTING MACHINERY AND INTELLIGENCE.pdf">COMPUTING MACHINERY AND INTELLIGENCE.pdf</a>
    * <a href="./a-m-turling/ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf">ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf</a>
  * <a href="./gitpush.sh">gitpush.sh</a>
- * <a href="./README.md">README.md</a>
  * <a href="./consensus">consensus</a>
-     * <a href="./consensus/In Search of an Understandable Consensus Algorithm (Extended Version).pdf">In Search of an Understandable Consensus Algorithm (Extended Version).pdf</a>
-     * <a href="./consensus/Practical Byzantine Fault Tolerance.pdf">Practical Byzantine Fault Tolerance.pdf</a>
+   * <a href="./consensus/In Search of an Understandable Consensus Algorithm (Extended Version).pdf">In Search of an Understandable Consensus Algorithm (Extended Version).pdf</a>
+   * <a href="./consensus/Practical Byzantine Fault Tolerance.pdf">Practical Byzantine Fault Tolerance.pdf</a>
+ * <a href="./README.md">README.md</a>
