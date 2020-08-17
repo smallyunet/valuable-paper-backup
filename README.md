@@ -24,5 +24,5 @@
  * <a href="./README.md">README.md</a>
  * <a href="./other-books">other-books</a>
      * <a href="./other-books/The Design of Everyday Things - Don Norman.pdf">The Design of Everyday Things - Don Norman.pdf</a>
-     * <a href="./other-books/Structure andInterpretationof ComputerPrograms.pdf">Structure andInterpretationof ComputerPrograms.pdf</a>
+     * <a href="./other-books/Structure and Interpretation of  Computer Programs.pdf">Structure and Interpretation of  Computer Programs.pdf</a>
      * <a href="./other-books/Introduction_to_algorithms-3rd Edition.pdf">Introduction_to_algorithms-3rd Edition.pdf</a>
