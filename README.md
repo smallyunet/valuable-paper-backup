@@ -29,6 +29,4 @@
    * <a href="./other-books/The Little Schemer.pdf">The Little Schemer.pdf</a>
  * <a href="./README.md">README.md</a>
  * <a href="./lisp">lisp</a>
-     * <a href="./lisp/Recursive Functions of Symbolic Expressions
-and Their Computation by Machine, Part I.pdf">Recursive Functions of Symbolic Expressions
-and Their Computation by Machine, Part I.pdf</a>
+     * <a href="./lisp/Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf">Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf</a>
