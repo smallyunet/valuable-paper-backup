@@ -27,6 +27,8 @@
    * <a href="./other-books/Introduction_to_algorithms-3rd Edition.pdf">Introduction_to_algorithms-3rd Edition.pdf</a>
    * <a href="./other-books/OReilly TeamGeek 2012.pdf">OReilly TeamGeek 2012.pdf</a>
    * <a href="./other-books/The Little Schemer.pdf">The Little Schemer.pdf</a>
- * <a href="./README.md">README.md</a>
  * <a href="./lisp">lisp</a>
-     * <a href="./lisp/Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf">Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf</a>
+   * <a href="./lisp/Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf">Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf</a>
+ * <a href="./README.md">README.md</a>
+ * <a href="./reading-notes">reading-notes</a>
+     * <a href="./reading-notes/《零基础学好英语语法》阅读笔记.pdf">《零基础学好英语语法》阅读笔记.pdf</a>
