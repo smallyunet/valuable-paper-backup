@@ -19,13 +19,6 @@
    * <a href="./reading-notes/Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf">Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf</a>
    * <a href="./reading-notes/《简单的逻辑学》阅读笔记.pdf">《简单的逻辑学》阅读笔记.pdf</a>
    * <a href="./reading-notes/Structure and Interpretation of Computer Programs - Reading notes.pdf">Structure and Interpretation of Computer Programs - Reading notes.pdf</a>
- * <a href="./books">books</a>
-   * <a href="./books/The Design of Everyday Things - Don Norman.pdf">The Design of Everyday Things - Don Norman.pdf</a>
-   * <a href="./books/Structure and Interpretation of  Computer Programs.pdf">Structure and Interpretation of  Computer Programs.pdf</a>
-   * <a href="./books/Introduction_to_algorithms-3rd Edition.pdf">Introduction_to_algorithms-3rd Edition.pdf</a>
-   * <a href="./books/OReilly TeamGeek 2012.pdf">OReilly TeamGeek 2012.pdf</a>
-   * <a href="./books/The Little Schemer.pdf">The Little Schemer.pdf</a>
-   * <a href="./books/oxford_guide_to_english_grammar.pdf">oxford_guide_to_english_grammar.pdf</a>
  * <a href="./Alonzo-Church">Alonzo-Church</a>
    * <a href="./Alonzo-Church/An Unsolvable Problem of Elementary Number Theory.pdf">An Unsolvable Problem of Elementary Number Theory.pdf</a>
  * <a href="./manual">manual</a>
@@ -41,3 +34,11 @@
    * <a href="./lambda-calculus/programming in lambda calcuius.pdf">programming in lambda calcuius.pdf</a>
    * <a href="./lambda-calculus/The Call-by-Need Lambda Calculus.pdf">The Call-by-Need Lambda Calculus.pdf</a>
  * <a href="./README.md">README.md</a>
+ * <a href="./books">books</a>
+     * <a href="./books/The Design of Everyday Things - Don Norman.pdf">The Design of Everyday Things - Don Norman.pdf</a>
+     * <a href="./books/Structure and Interpretation of  Computer Programs.pdf">Structure and Interpretation of  Computer Programs.pdf</a>
+     * <a href="./books/Introduction_to_algorithms-3rd Edition.pdf">Introduction_to_algorithms-3rd Edition.pdf</a>
+     * <a href="./books/OReilly TeamGeek 2012.pdf">OReilly TeamGeek 2012.pdf</a>
+     * <a href="./books/The Little Schemer.pdf">The Little Schemer.pdf</a>
+     * <a href="./books/oxford_guide_to_english_grammar.pdf">oxford_guide_to_english_grammar.pdf</a>
+     * <a href="./books/Japanese Grammar Guide by Tae Kim.pdf">Japanese Grammar Guide by Tae Kim.pdf</a>
