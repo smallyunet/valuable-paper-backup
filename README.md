@@ -45,3 +45,4 @@
      * <a href="./books/oxford_guide_to_english_grammar.pdf">oxford_guide_to_english_grammar.pdf</a>
      * <a href="./books/Japanese Grammar Guide by Tae Kim.pdf">Japanese Grammar Guide by Tae Kim.pdf</a>
      * <a href="./books/Programming Languages and Lambda Calculi.pdf">Programming Languages and Lambda Calculi.pdf</a>
+     * <a href="./books/The_Little_Prince.pdf">The_Little_Prince.pdf</a>
