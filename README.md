@@ -8,7 +8,6 @@
    * <a href="./Alonzo-Church/An Unsolvable Problem of Elementary Number Theory.pdf">An Unsolvable Problem of Elementary Number Theory.pdf</a>
  * <a href="./John-Von-Neumann">John-Von-Neumann</a>
    * <a href="./John-Von-Neumann/The Computer and The Brain.pdf">The Computer and The Brain.pdf</a>
- * <a href="./_config.yml">_config.yml</a>
  * <a href="./blockchain">blockchain</a>
    * <a href="./blockchain/Bitcoin: A Peer-to-Peer Electronic Cash System.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System.pdf</a>
    * <a href="./blockchain/ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf">ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf</a>
