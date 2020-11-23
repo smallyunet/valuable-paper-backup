@@ -8,6 +8,7 @@
    * <a href="./Alonzo-Church/An Unsolvable Problem of Elementary Number Theory.pdf">An Unsolvable Problem of Elementary Number Theory.pdf</a>
  * <a href="./John-Von-Neumann">John-Von-Neumann</a>
    * <a href="./John-Von-Neumann/The Computer and The Brain.pdf">The Computer and The Brain.pdf</a>
+ * <a href="./_config.yml">_config.yml</a>
  * <a href="./blockchain">blockchain</a>
    * <a href="./blockchain/Bitcoin: A Peer-to-Peer Electronic Cash System.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System.pdf</a>
    * <a href="./blockchain/ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf">ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf</a>
@@ -25,6 +26,7 @@
  * <a href="./consensus">consensus</a>
    * <a href="./consensus/In Search of an Understandable Consensus Algorithm (Extended Version).pdf">In Search of an Understandable Consensus Algorithm (Extended Version).pdf</a>
    * <a href="./consensus/Practical Byzantine Fault Tolerance.pdf">Practical Byzantine Fault Tolerance.pdf</a>
+ * <a href="./favicon.png">favicon.png</a>
  * <a href="./lambda-calculus">lambda-calculus</a>
    * <a href="./lambda-calculus/A Tutorial Introduction to the Lambda Calculus.pdf">A Tutorial Introduction to the Lambda Calculus.pdf</a>
    * <a href="./lambda-calculus/Introduction to Lambda Calculus.pdf">Introduction to Lambda Calculus.pdf</a>
