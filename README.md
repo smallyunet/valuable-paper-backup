@@ -25,7 +25,6 @@
  * <a href="./consensus">consensus</a>
    * <a href="./consensus/In Search of an Understandable Consensus Algorithm (Extended Version).pdf">In Search of an Understandable Consensus Algorithm (Extended Version).pdf</a>
    * <a href="./consensus/Practical Byzantine Fault Tolerance.pdf">Practical Byzantine Fault Tolerance.pdf</a>
- * <a href="./gitpush.sh">gitpush.sh</a>
  * <a href="./lambda-calculus">lambda-calculus</a>
    * <a href="./lambda-calculus/A Tutorial Introduction to the Lambda Calculus.pdf">A Tutorial Introduction to the Lambda Calculus.pdf</a>
    * <a href="./lambda-calculus/Introduction to Lambda Calculus.pdf">Introduction to Lambda Calculus.pdf</a>
@@ -39,9 +38,8 @@
  * <a href="./pi-calculus">pi-calculus</a>
    * <a href="./pi-calculus/Functions as Processes by Milner.pdf">Functions as Processes by Milner.pdf</a>
  * <a href="./reading-notes">reading-notes</a>
-   * <a href="./reading-notes/Structure and Interpretation of Computer Programs - Reading notes.pdf">Structure and Interpretation of Computer Programs - Reading notes.pdf</a>
-   * <a href="./reading-notes/Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf">Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf</a>
-   * <a href="./reading-notes/《简单的逻辑学》阅读笔记.pdf">《简单的逻辑学》阅读笔记.pdf</a>
-   * <a href="./reading-notes/《英语语法新思维初级教程》 阅读笔记.pdf">《英语语法新思维初级教程》 阅读笔记.pdf</a>
-   * <a href="./reading-notes/《零基础学好英语语法》阅读笔记.pdf">《零基础学好英语语法》阅读笔记.pdf</a>
- * <a href="./tree-md.sh">tree-md.sh</a>
+     * <a href="./reading-notes/Structure and Interpretation of Computer Programs - Reading notes.pdf">Structure and Interpretation of Computer Programs - Reading notes.pdf</a>
+     * <a href="./reading-notes/Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf">Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf</a>
+     * <a href="./reading-notes/《简单的逻辑学》阅读笔记.pdf">《简单的逻辑学》阅读笔记.pdf</a>
+     * <a href="./reading-notes/《英语语法新思维初级教程》 阅读笔记.pdf">《英语语法新思维初级教程》 阅读笔记.pdf</a>
+     * <a href="./reading-notes/《零基础学好英语语法》阅读笔记.pdf">《零基础学好英语语法》阅读笔记.pdf</a>
