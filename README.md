@@ -10,6 +10,8 @@
    * <a href="./[Author] John.Von.Neumann/The Computer and The Brain.pdf">The Computer and The Brain.pdf</a>
  * <a href="./[Lang] lisp">[Lang] lisp</a>
    * <a href="./[Lang] lisp/Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf">Recursive Functions of Symbolic Expressionsand Their Computation by Machine.Part I.pdf</a>
+ * <a href="./[Tech] blind-signature">[Tech] blind-signature</a>
+   * <a href="./[Tech] blind-signature/Chaum-blind-signatures.PDF">Chaum-blind-signatures.PDF</a>
  * <a href="./[Tech] blockchain">[Tech] blockchain</a>
    * <a href="./[Tech] blockchain/Bitcoin: A Peer-to-Peer Electronic Cash System.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System.pdf</a>
    * <a href="./[Tech] blockchain/ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf">ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf</a>
@@ -38,9 +40,8 @@
    * <a href="./[Type] manual/Rust-npm-Whitepaper.pdf">Rust-npm-Whitepaper.pdf</a>
    * <a href="./[Type] manual/texlive-en.pdf">texlive-en.pdf</a>
  * <a href="./[Type] reading-notes">[Type] reading-notes</a>
-   * <a href="./[Type] reading-notes/Structure and Interpretation of Computer Programs - Reading notes.pdf">Structure and Interpretation of Computer Programs - Reading notes.pdf</a>
-   * <a href="./[Type] reading-notes/Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf">Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf</a>
-   * <a href="./[Type] reading-notes/《简单的逻辑学》阅读笔记.pdf">《简单的逻辑学》阅读笔记.pdf</a>
-   * <a href="./[Type] reading-notes/《英语语法新思维初级教程》 阅读笔记.pdf">《英语语法新思维初级教程》 阅读笔记.pdf</a>
-   * <a href="./[Type] reading-notes/《零基础学好英语语法》阅读笔记.pdf">《零基础学好英语语法》阅读笔记.pdf</a>
- * <a href="./favicon.png">favicon.png</a>
+     * <a href="./[Type] reading-notes/Structure and Interpretation of Computer Programs - Reading notes.pdf">Structure and Interpretation of Computer Programs - Reading notes.pdf</a>
+     * <a href="./[Type] reading-notes/Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf">Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf</a>
+     * <a href="./[Type] reading-notes/《简单的逻辑学》阅读笔记.pdf">《简单的逻辑学》阅读笔记.pdf</a>
+     * <a href="./[Type] reading-notes/《英语语法新思维初级教程》 阅读笔记.pdf">《英语语法新思维初级教程》 阅读笔记.pdf</a>
+     * <a href="./[Type] reading-notes/《零基础学好英语语法》阅读笔记.pdf">《零基础学好英语语法》阅读笔记.pdf</a>
