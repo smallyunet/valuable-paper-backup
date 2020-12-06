@@ -27,6 +27,7 @@
  * <a href="./[Tech] pi-calculus">[Tech] pi-calculus</a>
    * <a href="./[Tech] pi-calculus/Functions as Processes by Milner.pdf">Functions as Processes by Milner.pdf</a>
  * <a href="./[Tech] self-sovereign-identity">[Tech] self-sovereign-identity</a>
+   * <a href="./[Tech] self-sovereign-identity/EIDAS SUPPORTED SELF-SOVEREIGN IDENTITY.pdf">EIDAS SUPPORTED SELF-SOVEREIGN IDENTITY.pdf</a>
    * <a href="./[Tech] self-sovereign-identity/Towards Self-Sovereign Identity using Blockchain Technology.pdf">Towards Self-Sovereign Identity using Blockchain Technology.pdf</a>
  * <a href="./[Tech] zero-knowledge-proof">[Tech] zero-knowledge-proof</a>
    * <a href="./[Tech] zero-knowledge-proof/Bulletproofs Short Proofs for Confidential Transactions and More.pdf">Bulletproofs Short Proofs for Confidential Transactions and More.pdf</a>
