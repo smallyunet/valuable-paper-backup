@@ -28,6 +28,8 @@
    * <a href="./[Tech] pi-calculus/Functions as Processes by Milner.pdf">Functions as Processes by Milner.pdf</a>
  * <a href="./[Tech] self-sovereign-identity">[Tech] self-sovereign-identity</a>
    * <a href="./[Tech] self-sovereign-identity/EIDAS SUPPORTED SELF-SOVEREIGN IDENTITY.pdf">EIDAS SUPPORTED SELF-SOVEREIGN IDENTITY.pdf</a>
+   * <a href="./[Tech] self-sovereign-identity/Microsoft Decentralized Identity.pdf">Microsoft Decentralized Identity.pdf</a>
+   * <a href="./[Tech] self-sovereign-identity/Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust.pdf">Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust.pdf</a>
    * <a href="./[Tech] self-sovereign-identity/Towards Self-Sovereign Identity using Blockchain Technology.pdf">Towards Self-Sovereign Identity using Blockchain Technology.pdf</a>
  * <a href="./[Tech] zero-knowledge-proof">[Tech] zero-knowledge-proof</a>
    * <a href="./[Tech] zero-knowledge-proof/Bulletproofs Short Proofs for Confidential Transactions and More.pdf">Bulletproofs Short Proofs for Confidential Transactions and More.pdf</a>
