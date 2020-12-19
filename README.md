@@ -1,6 +1,7 @@
 # Index
 
 .
+ * <a href="./CNAME">CNAME</a>
  * <a href="./[Author] A.M.Turling">[Author] A.M.Turling</a>
    * <a href="./[Author] A.M.Turling/COMPUTING MACHINERY AND INTELLIGENCE.pdf">COMPUTING MACHINERY AND INTELLIGENCE.pdf</a>
    * <a href="./[Author] A.M.Turling/ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf">ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf</a>
