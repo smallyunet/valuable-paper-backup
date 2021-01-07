@@ -1,6 +1,16 @@
 # Index
 
 .
+ * <a href="./Tech elliptic-curve cryptography">Tech elliptic-curve cryptography</a>
+   * <a href="./Tech elliptic-curve cryptography/A Gentle Introduction to Elliptic Curve Cryptography.pdf">A Gentle Introduction to Elliptic Curve Cryptography.pdf</a>
+   * <a href="./Tech elliptic-curve cryptography/Elliptic curve cryptosystems.pdf">Elliptic curve cryptosystems.pdf</a>
+   * <a href="./Tech elliptic-curve cryptography/Use of Elliptic Curves in Cryptography.pdf">Use of Elliptic Curves in Cryptography.pdf</a>
+ * <a href="./Tech lambda-calculus">Tech lambda-calculus</a>
+   * <a href="./Tech lambda-calculus/A Tutorial Introduction to the Lambda Calculus.pdf">A Tutorial Introduction to the Lambda Calculus.pdf</a>
+   * <a href="./Tech lambda-calculus/Introduction to Lambda Calculus.pdf">Introduction to Lambda Calculus.pdf</a>
+   * <a href="./Tech lambda-calculus/Programming Languages and Lambda Calculi.pdf">Programming Languages and Lambda Calculi.pdf</a>
+   * <a href="./Tech lambda-calculus/The Call-by-Need Lambda Calculus.pdf">The Call-by-Need Lambda Calculus.pdf</a>
+   * <a href="./Tech lambda-calculus/programming in lambda calcuius.pdf">programming in lambda calcuius.pdf</a>
  * <a href="./[Author] A.M.Turling">[Author] A.M.Turling</a>
    * <a href="./[Author] A.M.Turling/COMPUTING MACHINERY AND INTELLIGENCE.pdf">COMPUTING MACHINERY AND INTELLIGENCE.pdf</a>
    * <a href="./[Author] A.M.Turling/ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf">ON COMPUTABLE NUMBERS, WITH AN APPLICATION TOTHE ENTSCHEIDUNGSPROBLEM.pdf</a>
@@ -8,8 +18,6 @@
    * <a href="./[Author] A.lonzo.Church/An Unsolvable Problem of Elementary Number Theory.pdf">An Unsolvable Problem of Elementary Number Theory.pdf</a>
  * <a href="./[Author] John.Von.Neumann">[Author] John.Von.Neumann</a>
    * <a href="./[Author] John.Von.Neumann/The Computer and The Brain.pdf">The Computer and The Brain.pdf</a>
- * <a href="./[Engineering] software">[Engineering] software</a>
-   * <a href="./[Engineering] software/No Silver Bullet—Essence and Accidents of Software Engineering.pdf">No Silver Bullet—Essence and Accidents of Software Engineering.pdf</a>
  * <a href="./[Lang] lisp">[Lang] lisp</a>
    * <a href="./[Lang] lisp/Recursive Functions of Symbolic Expressionsand Their Computation by Machine Part I.pdf">Recursive Functions of Symbolic Expressionsand Their Computation by Machine Part I.pdf</a>
  * <a href="./[Tech] blind-signature">[Tech] blind-signature</a>
@@ -21,15 +29,6 @@
  * <a href="./[Tech] consensus">[Tech] consensus</a>
    * <a href="./[Tech] consensus/In Search of an Understandable Consensus Algorithm (Extended Version).pdf">In Search of an Understandable Consensus Algorithm (Extended Version).pdf</a>
    * <a href="./[Tech] consensus/Practical Byzantine Fault Tolerance.pdf">Practical Byzantine Fault Tolerance.pdf</a>
- * <a href="./[Tech] elliptic-curve cryptography">[Tech] elliptic-curve cryptography</a>
-   * <a href="./[Tech] elliptic-curve cryptography/A Gentle Introduction to Elliptic Curve Cryptography.pdf">A Gentle Introduction to Elliptic Curve Cryptography.pdf</a>
-   * <a href="./[Tech] elliptic-curve cryptography/Elliptic curve cryptosystems.pdf">Elliptic curve cryptosystems.pdf</a>
-   * <a href="./[Tech] elliptic-curve cryptography/Use of Elliptic Curves in Cryptography.pdf">Use of Elliptic Curves in Cryptography.pdf</a>
- * <a href="./[Tech] lambda-calculus">[Tech] lambda-calculus</a>
-   * <a href="./[Tech] lambda-calculus/A Tutorial Introduction to the Lambda Calculus.pdf">A Tutorial Introduction to the Lambda Calculus.pdf</a>
-   * <a href="./[Tech] lambda-calculus/Introduction to Lambda Calculus.pdf">Introduction to Lambda Calculus.pdf</a>
-   * <a href="./[Tech] lambda-calculus/The Call-by-Need Lambda Calculus.pdf">The Call-by-Need Lambda Calculus.pdf</a>
-   * <a href="./[Tech] lambda-calculus/programming in lambda calcuius.pdf">programming in lambda calcuius.pdf</a>
  * <a href="./[Tech] pi-calculus">[Tech] pi-calculus</a>
    * <a href="./[Tech] pi-calculus/Functions as Processes by Milner.pdf">Functions as Processes by Milner.pdf</a>
  * <a href="./[Tech] self-sovereign-identity">[Tech] self-sovereign-identity</a>
@@ -42,12 +41,10 @@
  * <a href="./[Tech] zero-knowledge-proof">[Tech] zero-knowledge-proof</a>
    * <a href="./[Tech] zero-knowledge-proof/Bulletproofs Short Proofs for Confidential Transactions and More.pdf">Bulletproofs Short Proofs for Confidential Transactions and More.pdf</a>
  * <a href="./[Type] books">[Type] books</a>
-   * <a href="./[Type] books/Introduction to Algorithms - Third Edition.pdf">Introduction to Algorithms - Third Edition.pdf</a>
    * <a href="./[Type] books/Japanese Grammar Guide by Tae Kim.pdf">Japanese Grammar Guide by Tae Kim.pdf</a>
    * <a href="./[Type] books/Marge Piercy- poems .pdf">Marge Piercy- poems .pdf</a>
    * <a href="./[Type] books/OReilly TeamGeek 2012.pdf">OReilly TeamGeek 2012.pdf</a>
    * <a href="./[Type] books/Oxford Guide to English Grammar.pdf">Oxford Guide to English Grammar.pdf</a>
-   * <a href="./[Type] books/Programming Languages and Lambda Calculi.pdf">Programming Languages and Lambda Calculi.pdf</a>
    * <a href="./[Type] books/Structure and Interpretation of Computer Programs.pdf">Structure and Interpretation of Computer Programs.pdf</a>
    * <a href="./[Type] books/The Design of Everyday Things - Don Norman.pdf">The Design of Everyday Things - Don Norman.pdf</a>
    * <a href="./[Type] books/The Little Prince.pdf">The Little Prince.pdf</a>
