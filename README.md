@@ -20,6 +20,7 @@
  * <a href="./[Tech] consensus">[Tech] consensus</a>
    * <a href="./[Tech] consensus/In Search of an Understandable Consensus Algorithm (Extended Version).pdf">In Search of an Understandable Consensus Algorithm (Extended Version).pdf</a>
    * <a href="./[Tech] consensus/Practical Byzantine Fault Tolerance.pdf">Practical Byzantine Fault Tolerance.pdf</a>
+   * <a href="./[Tech] consensus/RBFT: Redundant Byzantine Fault Tolerance.pdf">RBFT: Redundant Byzantine Fault Tolerance.pdf</a>
  * <a href="./[Tech] elliptic-curve cryptography">[Tech] elliptic-curve cryptography</a>
    * <a href="./[Tech] elliptic-curve cryptography/A Gentle Introduction to Elliptic Curve Cryptography.pdf">A Gentle Introduction to Elliptic Curve Cryptography.pdf</a>
    * <a href="./[Tech] elliptic-curve cryptography/Elliptic curve cryptosystems.pdf">Elliptic curve cryptosystems.pdf</a>
