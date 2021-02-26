@@ -13,6 +13,14 @@
  * <a href="./[Tech] blind-signature">[Tech] blind-signature</a>
    * <a href="./[Tech] blind-signature/Chaum-blind-signatures.PDF">Chaum-blind-signatures.PDF</a>
  * <a href="./[Tech] blockchain">[Tech] blockchain</a>
+   * <a href="./[Tech] blockchain/A Data Structure for Integrity Protection
+with Erasure Capability.pdf">A Data Structure for Integrity Protection
+with Erasure Capability.pdf</a>
+   * <a href="./[Tech] blockchain/A Taxonomic Approach to Understanding
+Emerging Blockchain Identity
+Management Systems - NIST.CSWP.01142020.pdf">A Taxonomic Approach to Understanding
+Emerging Blockchain Identity
+Management Systems - NIST.CSWP.01142020.pdf</a>
    * <a href="./[Tech] blockchain/Bitcoin: A Peer-to-Peer Electronic Cash System.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System.pdf</a>
    * <a href="./[Tech] blockchain/Blockchain Technology Overview - NIST.IR.8202.pdf">Blockchain Technology Overview - NIST.IR.8202.pdf</a>
    * <a href="./[Tech] blockchain/Blockchain Technology Overview.pdf">Blockchain Technology Overview.pdf</a>
