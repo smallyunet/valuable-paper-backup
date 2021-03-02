@@ -41,6 +41,7 @@
    * <a href="./[Tech] self-sovereign-identity/Blockstack Technical Whitepaper v 2.0.pdf">Blockstack Technical Whitepaper v 2.0.pdf</a>
    * <a href="./[Tech] self-sovereign-identity/EIDAS SUPPORTED SELF-SOVEREIGN IDENTITY.pdf">EIDAS SUPPORTED SELF-SOVEREIGN IDENTITY.pdf</a>
    * <a href="./[Tech] self-sovereign-identity/Microsoft Decentralized Identity.pdf">Microsoft Decentralized Identity.pdf</a>
+   * <a href="./[Tech] self-sovereign-identity/Practical Key Recovery Model for Self-Sovereign Identity Based Digital Wallets.pdf">Practical Key Recovery Model for Self-Sovereign Identity Based Digital Wallets.pdf</a>
    * <a href="./[Tech] self-sovereign-identity/Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust.pdf">Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust.pdf</a>
    * <a href="./[Tech] self-sovereign-identity/Towards Self-Sovereign Identity using Blockchain Technology.pdf">Towards Self-Sovereign Identity using Blockchain Technology.pdf</a>
  * <a href="./[Tech] zero-knowledge-proof">[Tech] zero-knowledge-proof</a>
