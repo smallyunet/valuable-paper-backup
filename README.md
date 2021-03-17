@@ -17,7 +17,6 @@
    * <a href="./[Tech] blockchain/A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems - NIST.CSWP.01142020.pdf">A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems - NIST.CSWP.01142020.pdf</a>
    * <a href="./[Tech] blockchain/Bitcoin: A Peer-to-Peer Electronic Cash System.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System.pdf</a>
    * <a href="./[Tech] blockchain/Blockchain Technology Overview - NIST.IR.8202.pdf">Blockchain Technology Overview - NIST.IR.8202.pdf</a>
-   * <a href="./[Tech] blockchain/Blockchain Technology Overview.pdf">Blockchain Technology Overview.pdf</a>
    * <a href="./[Tech] blockchain/ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf">ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER.pdf</a>
    * <a href="./[Tech] blockchain/Enabling Blockchain Innovations with Pegged Sidechains.pdf">Enabling Blockchain Innovations with Pegged Sidechains.pdf</a>
  * <a href="./[Tech] consensus">[Tech] consensus</a>
