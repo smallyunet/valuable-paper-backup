@@ -57,6 +57,14 @@
    * <a href="./[Type] books/The Design of Everyday Things - Don Norman.pdf">The Design of Everyday Things - Don Norman.pdf</a>
    * <a href="./[Type] books/The Little Prince.pdf">The Little Prince.pdf</a>
    * <a href="./[Type] books/The Little Schemer.pdf">The Little Schemer.pdf</a>
+   * <a href="./[Type] books/programming-language-technology">programming-language-technology</a>
+   * <a href="./[Type] books/programming-language-technology/Chapter 1: Compilation Phases.pdf">Chapter 1: Compilation Phases.pdf</a>
+   * <a href="./[Type] books/programming-language-technology/Chapter 2: Grammars.pdf">Chapter 2: Grammars.pdf</a>
+   * <a href="./[Type] books/programming-language-technology/Chapter 3: Lexing and Parsing.pdf">Chapter 3: Lexing and Parsing.pdf</a>
+   * <a href="./[Type] books/programming-language-technology/Chapter 4: Type Checking.pdf">Chapter 4: Type Checking.pdf</a>
+   * <a href="./[Type] books/programming-language-technology/Chapter 5: Interpreters.pdf">Chapter 5: Interpreters.pdf</a>
+   * <a href="./[Type] books/programming-language-technology/Chapter 6: Code Generation.pdf">Chapter 6: Code Generation.pdf</a>
+   * <a href="./[Type] books/programming-language-technology/Chapter 7: Functional Programming Languages.pdf">Chapter 7: Functional Programming Languages.pdf</a>
  * <a href="./[Type] manual">[Type] manual</a>
    * <a href="./[Type] manual/Rust npm Whitepaper.pdf">Rust npm Whitepaper.pdf</a>
    * <a href="./[Type] manual/The TEX Live Guide - 2020.pdf">The TEX Live Guide - 2020.pdf</a>
