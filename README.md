@@ -12,6 +12,7 @@
    * <a href="./[Lang] lisp/Recursive Functions of Symbolic Expressionsand Their Computation by Machine Part I.pdf">Recursive Functions of Symbolic Expressionsand Their Computation by Machine Part I.pdf</a>
  * <a href="./[Tech] artifical-intelligence">[Tech] artifical-intelligence</a>
    * <a href="./[Tech] artifical-intelligence/A Native Intelligence Metric for Artificial Systems.pdf">A Native Intelligence Metric for Artificial Systems.pdf</a>
+   * <a href="./[Tech] artifical-intelligence/Artifical Intelligence Meets Natural Stupidity.pdf">Artifical Intelligence Meets Natural Stupidity.pdf</a>
    * <a href="./[Tech] artifical-intelligence/Artificial Intelligence in Engineering: Persional Reflections.pdf">Artificial Intelligence in Engineering: Persional Reflections.pdf</a>
  * <a href="./[Tech] blind-signature">[Tech] blind-signature</a>
    * <a href="./[Tech] blind-signature/Chaum-blind-signatures.PDF">Chaum-blind-signatures.PDF</a>
