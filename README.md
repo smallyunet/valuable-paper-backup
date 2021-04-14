@@ -16,6 +16,7 @@
    * <a href="./[Tech] artifical-intelligence/Artificial Intelligence 101: First World-Class Overview.pdf">Artificial Intelligence 101: First World-Class Overview.pdf</a>
    * <a href="./[Tech] artifical-intelligence/Artificial Intelligence in Engineering: Persional Reflections.pdf">Artificial Intelligence in Engineering: Persional Reflections.pdf</a>
    * <a href="./[Tech] artifical-intelligence/Creating Artificial Intelligence.pdf">Creating Artificial Intelligence.pdf</a>
+   * <a href="./[Tech] artifical-intelligence/Explainable Artificial Intelligence (XAI).pdf">Explainable Artificial Intelligence (XAI).pdf</a>
  * <a href="./[Tech] blind-signature">[Tech] blind-signature</a>
    * <a href="./[Tech] blind-signature/Chaum-blind-signatures.PDF">Chaum-blind-signatures.PDF</a>
  * <a href="./[Tech] blockchain">[Tech] blockchain</a>
