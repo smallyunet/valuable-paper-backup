@@ -26,7 +26,7 @@
 |   |-- ./[Tech]\ blockchain/Blockchain\ Technology\ Overview\ -\ NIST.IR.8202.pdf
 |   |-- ./[Tech]\ blockchain/ETHEREUM:\ A\ SECURE\ DECENTRALISED\ GENERALISED\ TRANSACTION\ LEDGER.pdf
 |   |-- ./[Tech]\ blockchain/Enabling\ Blockchain\ Innovations\ with\ Pegged\ Sidechains.pdf
-|   `-- ./[Tech]\ blockchain/IPFS\ -\ Content\ Addressed,\ Versioned,\ P2P\ File\ System\ (DRAFT\ 3).pdf
+|   `-- ./[Tech]\ blockchain/IPFS\ -\ Content\ Addressed,\ Versioned,\ P2P\ File\ System\ \ -\ DRAFT\ 3.pdf
 |-- ./[Tech]\ consensus
 |   |-- ./[Tech]\ consensus/In\ Search\ of\ an\ Understandable\ Consensus\ Algorithm\ (Extended\ Version).pdf
 |   |-- ./[Tech]\ consensus/Practical\ Byzantine\ Fault\ Tolerance.pdf
@@ -78,3 +78,7 @@
 |   `-- ./[Type]\ manual/The\ TEX\ Live\ Guide\ -\ 2020.pdf
 `-- ./[Type]\ reading-notes
     |-- ./[Type]\ reading-notes/Structure\ and\ Interpretation\ of\ Computer\ Programs\ -\ Reading\ notes.pdf
+    |-- ./[Type]\ reading-notes/Team\ Geek_\ A\ Software\ Developer’s\ Guide\ to\ Working\ Well\ with\ Others\ -\ Reading\ notes.pdf
+    |-- ./[Type]\ reading-notes/《简单的逻辑学》阅读笔记.pdf
+    |-- ./[Type]\ reading-notes/《英语语法新思维初级教程》\ 阅读笔记.pdf
+    `-- ./[Type]\ reading-notes/《零基础学好英语语法》阅读笔记.pdf
