@@ -76,9 +76,9 @@
 - [Type] manual
   - Rust npm Whitepaper.pdf
   - The TEX Live Guide - 2020.pdf
-└── [Type] reading-notes
+- [Type] reading-notes
     - Structure and Interpretation of Computer Programs - Reading notes.pdf
     - Team Geek_ A Software Developer’s Guide to Working Well with Others - Reading notes.pdf
     - 《简单的逻辑学》阅读笔记.pdf
     - 《英语语法新思维初级教程》 阅读笔记.pdf
-    └── 《零基础学好英语语法》阅读笔记.pdf
+    - 《零基础学好英语语法》阅读笔记.pdf
